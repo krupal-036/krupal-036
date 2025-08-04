@@ -113,10 +113,31 @@ I'm an enthusiastic and detail-oriented <b>Final Year Computer Engineering Stude
 
 <h2 align="center">📜 Certificates</h2>
 
-<ul align="center">
-  <li><a href="https://www.credly.com/badges/cc780be5-82b0-4d83-91fe-45b6d9637d0c"><b>User Experience Design Fundamentals</b></a> – IBM SkillsBuild (May 2025)</li>
-  <li><a href="https://www.credly.com/badges/23eb0a59-f61e-447c-8d34-1aedd7a8df2f"><b>Web Development Fundamentals</b></a> – IBM SkillsBuild (Sep 2024)</li>
-</ul>
+<table align="center">
+  <tr>
+    <th>Title</th>
+    <th>Issued By</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/cc780be5-82b0-4d83-91fe-45b6d9637d0c">
+        <b>User Experience Design Fundamentals</b>
+      </a>
+    </td>
+    <td>IBM SkillsBuild</td>
+    <td>May 2025</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/23eb0a59-f61e-447c-8d34-1aedd7a8df2f">
+        <b>Web Development Fundamentals</b>
+      </a>
+    </td>
+    <td>IBM SkillsBuild</td>
+    <td>Sep 2024</td>
+  </tr>
+</table>
 
 ---
 
