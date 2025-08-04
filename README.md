@@ -90,16 +90,16 @@ I'm an enthusiastic and detail-oriented <b>Final Year Computer Engineering Stude
     </td>
   </tr>
 </table>
+
+---
+
 <p align="left">
   <b>Key Areas of Expertise:</b><br/>
   Web Development (Frontend & Backend) • AI-Powered Applications • API Integration • Responsive Web Design
 </p>
 
 
-<p align="left">
-<b>Key Areas of Expertise:</b><br>
-Web Development (Frontend & Backend) • AI-Powered Applications • API Integration • Responsive Web Design
-</p>
+
 
 ---
 
@@ -120,42 +120,46 @@ Web Development (Frontend & Backend) • AI-Powered Applications • API Integra
 
 ---
 
-<h2 align="center">📫 Get In Touch</h2>
+<h2 align="center">📬 Get In Touch</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="100">
       <a href="https://krupal.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+        <img height="40" src="https://cdn-icons-png.freepik.com/512/10690/10690222.png" alt="Portfolio" />
         <br/>Portfolio
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.linkedin.com/in/krupal-fataniya/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
         <br/>LinkedIn
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.instagram.com/krupal_fataniya/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
         <br/>Instagram
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://codepen.io/Krupal-Fataniya" target="_blank">
-        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+        <img height="40" src="https://cdn.simpleicons.org/codepen/000000" alt="CodePen" />
         <br/>CodePen
       </a>
     </td>
     <td align="center" width="100">
       <a href="mailto:krupalfataniya007@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img height="40" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" />
         <br/>Gmail
       </a>
     </td>
   </tr>
 </table>
+
+
+
+
 
 <p align="center">
   Thank you for visiting my profile! Feel free to explore my repositories.
