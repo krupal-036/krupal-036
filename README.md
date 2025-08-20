@@ -1,15 +1,18 @@
 <h1 align="center"> Hi there, I'm Krupal Fataniya 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/krupal-036">
-    <img src="https://komarev.com/ghpvc/?username=krupal-036&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="krupal-036 profile views" />
-  </a>
-</p>
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
+[![Projects](https://img.shields.io/badge/Projects-3-blue)](#)
+[![Deployed Sites](https://img.shields.io/badge/Deployed_Sites-3-success)](#)
+[![Experience](https://img.shields.io/badge/Internship-Radixweb-informational)](#)
+[![Learning](https://img.shields.io/badge/Focus-Backend_Development-yellow)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://krupal.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-PDF-critical)](https://krupal.vercel.app/assets/krupal_fataniya_resume.pdf)
+[![Profile Views](https://komarev.com/ghpvc/?username=krupal-036&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/krupal-036)
+
 
 ---
 
-I'm an enthusiastic and detail-oriented <b>Final Year Computer Engineering Student</b> passionate about web development, artificial intelligence, and creating user-centric digital solutions. I'm eager to gain practical experience through real-world projects, make meaningful contributions, and thrive in collaborative, learning-oriented environments.
-
+I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Python-based web development</b>, <b>AI-powered solutions</b>, and building <b>user-centric applications</b>. With hands-on experience in <b>Django</b>, <b>Flask</b>, <b>backend systems</b>, and <b>cloud deployments</b>, I have developed projects including an <b>AI-powered healthcare platform</b>, a <b>multilingual translator</b>, and a <b>movie discovery app</b> - all deployed and live. I enjoy turning ideas into <b>scalable, real-world projects</b>, contributing to <b>open-source</b>, and collaborating with <b>innovative teams</b> while constantly learning and growing as a <b>developer</b>.
 
 <table align="center">
   <tr>
