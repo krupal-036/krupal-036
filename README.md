@@ -218,6 +218,6 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
     <b>© 2024 Krupal Fataniya. Made with ❤️ and ☕</b>
   </p>
   <p>
-    <a href="https://github.com/krupal-036#-hi-there-im-krupal-fataniya-">Back to top ↑</a>
+    <a href="https://github.com/krupal-036#------hi-there-im-krupal-fataniya-">Back to top ↑</a>
   </p>
 </div>
