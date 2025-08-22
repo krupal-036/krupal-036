@@ -3,15 +3,34 @@
   <br>
   Hi there, I'm Krupal Fataniya 👋
 </h1>
-
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![Projects](https://img.shields.io/badge/Projects-3-blue?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Deployed Sites](https://img.shields.io/badge/Deployed_Sites-3-success?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Experience](https://img.shields.io/badge/Internship-Radixweb-informational?style=for-the-badge&logo=workplace&logoColor=white)](#)
-[![Learning](https://img.shields.io/badge/Focus-Backend_Development-yellow?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel&logoColor=white)](https://krupal.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://krupal.vercel.app/assets/krupal_fataniya_resume.pdf)
-[![Profile Views](https://komarev.com/ghpvc/?username=krupal-036&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/krupal-036)
+<div align="center">
+  <p>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Projects-3-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Deployed_Sites-3-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed Sites"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Internship-Radixweb-informational?style=for-the-badge&logo=workplace&logoColor=white" alt="Internship"/>
+    </a>
+    <a href="https://krupal.vercel.app/assets/krupal_fataniya_resume.pdf">
+      <img src="https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Focus-Backend_Development-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Focus"/>
+    </a>
+    <a href="https://krupal.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/krupal-036">
+      <img src="https://komarev.com/ghpvc/?username=krupal-036&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    </a>
+  </p>
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4361EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Python+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG">
