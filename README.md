@@ -4,16 +4,19 @@
   Hi there, I'm Krupal Fataniya 👋
 </h1>
 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
-[![Projects](https://img.shields.io/badge/Projects-3-blue)](#)
-[![Deployed Sites](https://img.shields.io/badge/Deployed_Sites-3-success)](#)
-[![Experience](https://img.shields.io/badge/Internship-Radixweb-informational)](#)
-[![Learning](https://img.shields.io/badge/Focus-Backend_Development-yellow)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://krupal.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical)](https://krupal.vercel.app/assets/krupal_fataniya_resume.pdf)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![Projects](https://img.shields.io/badge/Projects-3-blue?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Deployed Sites](https://img.shields.io/badge/Deployed_Sites-3-success?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Experience](https://img.shields.io/badge/Internship-Radixweb-informational?style=for-the-badge&logo=workplace&logoColor=white)](#)
+[![Learning](https://img.shields.io/badge/Focus-Backend_Development-yellow?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel&logoColor=white)](https://krupal.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://krupal.vercel.app/assets/krupal_fataniya_resume.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=krupal-036&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/krupal-036)
 
----
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4361EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Python+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG">
+</div>
+
 I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Python-based web development</b>, <b>AI-powered solutions</b>, and building <b>user-centric applications</b>. With hands-on experience in <b>Django</b>, <b>Flask</b>, <b>backend systems</b>, and <b>cloud deployments</b>, I have developed projects including an <b>AI-powered healthcare platform</b>, a <b>multilingual translator</b>, and a <b>movie discovery app</b> - all deployed and live. I enjoy turning ideas into <b>scalable, real-world projects</b>, contributing to <b>open-source</b>, and collaborating with <b>innovative teams</b> while constantly learning and growing as a <b>developer</b>.
 
 <table align="center">
@@ -90,14 +93,28 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
         <br/>Vercel
       </a>
     </td>
+    <td align="center" width="80">
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+    <br/>Netlify
+  </a>
+</td>
+<td align="center" width="80">
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40" height="40" alt="Render"/>
+    <br/>Render
+  </a>
+</td>
+
   </tr>
 </table>
 
----
-<p align="left">
-  <b>Key Areas of Expertise:</b><br/>
-  Web Development (Frontend & Backend) • AI-Powered Applications • API Integration • Responsive Web Design
-</p>
+<div align="center">
+  <p>
+    <b>Key Areas of Expertise:</b><br/>
+    Full Stack Web Development • AI-Powered Applications • API Integration • Responsive Web Design
+  </p>
+</div>
 
 ---
 <h2 align="center">🏆 Featured Projects</h2>
@@ -129,10 +146,18 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 
 ---
 <h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krupal-036&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Krupal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-036&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Krupal's Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupal-036&theme=vue-dark&hide_border=true" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=krupal-036&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-036&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages">
+  <br>
+<div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krupal-036&bg_color=0d1117&color=00ffff&line=00bfff&point=00ffcc&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+</div>
 
 ---
 <h2 align="center">📜 Certificates</h2>
@@ -200,14 +225,30 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 </table>
 
 ---
+<h2 align="center">💡 A Little More About Me</h2>
+
 <div align="center">
-  <h3>💡 A Little More About Me</h3>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored lines">
+  
   <p>
     I'm a lifelong learner who thrives on solving complex problems through code. 
     When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, 
     or sharing knowledge with the developer community. I believe in the power of technology to transform lives 
     and am always looking for opportunities to create meaningful impact through my work.
   </p>
+  
+  <p>
+    Beyond coding, I enjoy:
+  </p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/📚%20Reading-FF6B6B?style=for-the-badge" alt="Reading"/>
+    <img src="https://img.shields.io/badge/🎵%20Music-4ECDC4?style=for-the-badge" alt="Music"/>
+    <img src="https://img.shields.io/badge/🎬%20Movies-FFD166?style=for-the-badge" alt="Movies"/>
+    <img src="https://img.shields.io/badge/🎮%20Gaming-6A0572?style=for-the-badge" alt="Gaming"/>
+  </div>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored lines">
 </div>
 
 ---
@@ -218,6 +259,8 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
     <b>© 2024 Krupal Fataniya. Made with ❤️ and ☕</b>
   </p>
   <p>
-    <a href="https://github.com/krupal-036#------hi-there-im-krupal-fataniya-">Back to top ↑</a>
+    <a href="#------hi-there-im-krupal-fataniya-">
+      <img src="https://img.shields.io/badge/Back%20to%20the%20Stars-4361EE?style=for-the-badge&logo=rocket&logoColor=white" alt="Back to Top"/>
+    </a>
   </p>
 </div>
