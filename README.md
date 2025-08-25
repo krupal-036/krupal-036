@@ -51,13 +51,43 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 ---
 <h2 align="center">🚀 My Skills & Tech Stack</h2>
 <table align="center">
+
+  <!-- Row 1 -->
   <tr>
+    <td align="center" width="80">
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+        <br/>Node.js
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React.js"/>
+        <br/>React.js
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+        <br/>TailwindCSS
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+        <br/>Bootstrap
+      </a>
+    </td>
     <td align="center" width="80">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
         <br/>Python
       </a>
     </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
     <td align="center" width="80">
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="Flask"/>
@@ -88,6 +118,10 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
         <br/>CSS
       </a>
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center" width="80">
       <a href="https://cloud.google.com/apis/docs/overview" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
@@ -113,19 +147,48 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
       </a>
     </td>
     <td align="center" width="80">
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
-    <br/>Netlify
-  </a>
-</td>
-<td align="center" width="80">
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40" height="40" alt="Render"/>
-    <br/>Render
-  </a>
-</td>
-
+      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+        <br/>Netlify
+      </a>
+    </td>
   </tr>
+
+<!-- Row 4 -->
+<tr>
+  <td align="center" width="80">
+    <a href="https://render.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40" height="40" alt="Render"/>
+      <br/>Render
+    </a>
+  </td>
+  <td align="center" width="80">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+      <br/>MySQL
+    </a>
+  </td>
+  <td align="center" width="80">
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+      <br/>Postman
+    </a>
+  </td>
+  <td align="center" width="80">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+      <br/>MongoDB
+    </a>
+  </td>
+  <td align="center" width="80">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+      <br/>Figma
+    </a>
+  </td>
+</tr>
+
+
 </table>
 
 <div align="center">
@@ -146,6 +209,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
         <p>AI-powered multilingual translator with text-to-speech capabilities</p>
       </a>
     </td>
+
     <td width="33%" align="center">
       <a href="https://github.com/krupal-036/maverick-challenge-ai-health">
         <img src="https://cdn-icons-png.freepik.com/512/18939/18939313.png" width="80" alt="Healthcare Platform">
