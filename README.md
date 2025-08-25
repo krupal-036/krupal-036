@@ -209,7 +209,6 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
         <p>AI-powered multilingual translator with text-to-speech capabilities</p>
       </a>
     </td>
-
     <td width="33%" align="center">
       <a href="https://github.com/krupal-036/maverick-challenge-ai-health">
         <img src="https://cdn-icons-png.freepik.com/512/18939/18939313.png" width="80" alt="Healthcare Platform">
