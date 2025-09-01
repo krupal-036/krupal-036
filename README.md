@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Projects-3-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Deployed_Sites-3-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed Sites"/>
+      <img src="https://img.shields.io/badge/Deployed_Sites-5-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed Sites"/>
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Internship-Radixweb-informational?style=for-the-badge&logo=workplace&logoColor=white" alt="Internship"/>
