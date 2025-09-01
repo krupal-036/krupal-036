@@ -230,13 +230,18 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupal-036&theme=vue-dark&hide_border=true" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=krupal-036&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-036&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krupal-036&theme=dark&hide_border=true&border_radius=20&mode=daily)](https://git.io/streak-stats)
+  
+[![Krupal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krupal-036&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-036&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
   <br>
 <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krupal-036&bg_color=0d1117&color=00ffff&line=00bfff&point=00ffcc&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  
+  [![Krupal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krupal-036&bg_color=151515&color=00ffff&line=00bfff&point=00ffcc&area=true&hide_border=true&radius=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 </div>
