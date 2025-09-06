@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Projects-3-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+      <img src="https://img.shields.io/badge/Projects-4-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Deployed_Sites-5-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed Sites"/>
