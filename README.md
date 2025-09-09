@@ -235,7 +235,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
   
 [![Krupal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krupal-036&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-036&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-036&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://krupal.vercel.app/)
 
   <br>
 <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
