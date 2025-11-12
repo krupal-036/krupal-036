@@ -50,9 +50,26 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 
 ---
 <h2 align="center">🚀 My Skills & Tech Stack</h2>
-<table align="center">
 
-  <!-- Row 1 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,nodejs" alt="tech icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap" alt="tech icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vercel" alt="tech icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=netlify,postman,figma,gcp" alt="tech icons"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="50" height="50" alt="Render"/>
+</p>
+
+
+
+
+ <!-- Row 1 
+ <table align="center">
   <tr>
     <td align="center" width="80">
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -86,7 +103,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
     </td>
   </tr>
 
-  <!-- Row 2 -->
+
   <tr>
     <td align="center" width="80">
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -120,7 +137,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
     </td>
   </tr>
 
-  <!-- Row 3 -->
+
   <tr>
     <td align="center" width="80">
       <a href="https://cloud.google.com/apis/docs/overview" target="_blank" rel="noreferrer">
@@ -154,7 +171,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
     </td>
   </tr>
 
-<!-- Row 4 -->
+
 <tr>
   <td align="center" width="80">
     <a href="https://render.com/" target="_blank" rel="noreferrer">
@@ -190,7 +207,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 
 
 </table>
-
+-->
 <div align="center">
   <p>
     <b>Key Areas of Expertise:</b><br/>
