@@ -360,7 +360,6 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer Wave">
   <p>
     <i>Thank you for visiting my profile! Feel free to explore my repositories and connect with me.</i><br>
-    <b>© 2024 Krupal Fataniya. Made with ❤️ and ☕</b>
   </p>
   <p>
     <a href="#------hi-there-im-krupal-fataniya-">
