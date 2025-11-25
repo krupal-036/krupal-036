@@ -329,7 +329,7 @@ I’m a <b>Final Year Computer Engineering Student</b> passionate about <b>Pytho
 </table>
 
 ---
-<h2 align="center">💡 A Little More About Me</h2>
+<h2 align="center">💡 About Me</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored lines">
